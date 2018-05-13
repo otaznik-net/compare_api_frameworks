@@ -1,0 +1,13 @@
+name: simple_kemal_test
+version: 0.1.0
+
+authors:
+  - Jakub Tucek <public@otaznik.net>
+
+description: |
+  Simple test API to compare performance amongst frameworks
+
+license: BSD 3-Clause License
+dependencies:
+  kemal:
+    github: kemalcr/kemal

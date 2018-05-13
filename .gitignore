@@ -1,0 +1,3 @@
+# ignore crystal dependencies (fetch them via shards install)
+/kemal/lib
+**/.shards/
