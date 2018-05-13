@@ -1,5 +1,5 @@
 # Compare API frameworks
-Inspired by `The Crystal Language from ~scratch~ ruby by Sérgio Gil` presented on Ruby Unconf 2018
+Inspired by `The Crystal Language from ~scratch~ ruby by Sérgio Gil` presented on [Ruby Unconf 2018](https://rubyunconf.eu).
 It seemed that crystal is quite easy to try for people who are used to ruby.
 
 So, let's compare Ruby(grape) to Crystal(kemal) performance, ease of use and programmer happiness =)
